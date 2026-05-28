@@ -1,4 +1,3 @@
 ### Odin Recipes
 
-A recipe page made with HTML and CSS
-
+A Webpage of various cooking recipes 
